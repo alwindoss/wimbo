@@ -1,0 +1,6 @@
+---
+repository:
+  db_loc: /home/myname/data/wimbo.db 
+  tracker_bucket: TRACKER_BUCKET
+  activity_bucket: ACTIVITY_BUCKET
+  auditlog_bucket: AUDIT_LOG_BUCKET
