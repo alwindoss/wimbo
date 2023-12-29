@@ -1,4 +1,4 @@
-# wimbo
+# Wimbo
 Time tracker for everyone right from the command line
 
 ### What's in a name?
